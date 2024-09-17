@@ -5,6 +5,11 @@ You will build upon the application we've developed during the lessons in this c
 
 ## Getting Started
 
+Domain EB: Image-Processing-Microservice-dev.us-east-1.elasticbeanstalk.com
+URL endpoint: http://image-processing-microservice-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+## Getting Started
+
 You can clone this repo to run the project locally, or navigate to the workspace in the Udacity course.
 
 ## Project Instructions
